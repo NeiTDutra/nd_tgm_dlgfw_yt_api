@@ -1,7 +1,7 @@
 {
   "type": "service_account",
   "project_id": "diobcsfcontactbot-mit9",
-  "private_key_id": "14b6e25ee750b50a10ab06a534af16af5e9f9637",
+  "private_key_id": "",
   "private_key": "",
   "client_email": "dialogflow-wtcgrp@diobcsfcontactbot-mit9.iam.gserviceaccount.com",
   "client_id": "105040195473057184481",
