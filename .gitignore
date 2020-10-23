@@ -1,3 +1,4 @@
 /node_modules/*
 ytconfig.json
 dialogflow.json
+package-lock.json
